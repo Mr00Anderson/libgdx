@@ -11,6 +11,7 @@
 * [Extending the Simple Game](https://libgdx.com/dev/simple_game_extended/)
 
 ## Developer's Guide
+* [[Java Development Kit - Selection]]
 * [[The Application Framework]]
   * [[The Life-Cycle]]
   * [[Modules Overview]]
